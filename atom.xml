@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://CGTC.github.io</id>
+    <id>https://leosolove.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-25T05:59:13.757Z</updated>
+    <updated>2021-04-25T06:32:31.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://CGTC.github.io"/>
-    <link rel="self" href="https://CGTC.github.io/atom.xml"/>
+    <link rel="alternate" href="https://leosolove.github.io"/>
+    <link rel="self" href="https://leosolove.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://CGTC.github.io/images/avatar.png</logo>
-    <icon>https://CGTC.github.io/favicon.ico</icon>
+    <logo>https://leosolove.github.io/images/avatar.png</logo>
+    <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://CGTC.github.io/post/hello-gridea/</id>
-        <link href="https://CGTC.github.io/post/hello-gridea/">
+        <id>https://leosolove.github.io/post/hello-gridea/</id>
+        <link href="https://leosolove.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
