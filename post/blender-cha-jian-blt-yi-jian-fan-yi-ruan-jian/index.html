@@ -1,29 +1,28 @@
 <html>
   <head>
     <meta charset="utf-8" />
+<meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>【Blender插件】BLT一键翻译软件 | 云的百宝箱</title>
-<link rel="shortcut icon" href="https://leosolove.github.io//favicon.ico?v=1619354536261">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<link rel="shortcut icon" href="https://leosolove.github.io//favicon.ico?v=1619357110365">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://leosolove.github.io//styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="【Blender插件】BLT一键翻译软件 | 云的百宝箱 - Atom Feed" href="https://leosolove.github.io//atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+
+<!-- DEMO JS -->
+<script src="/media/scripts/index.js"></script>
 
 
 
-    <meta name="description" content="Blender插件一键翻译软件-“BLT”免费共享发布
-官方下载链接：BLT官方下载地址
-" />
-    <meta name="keywords" content="Blender插件" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
   </head>
   <body>
     <div class="main">
       <div class="main-content">
         <div class="site-header">
   <a href="https://leosolove.github.io/">
-  <img class="avatar" src="https://leosolove.github.io//images/avatar.png?v=1619354536261" alt="">
+  <img class="avatar" src="https://leosolove.github.io//images/avatar.png?v=1619357110365" alt="">
   </a>
   <h1 class="site-title">
     云的百宝箱
@@ -71,40 +70,36 @@
       
     
   </div>
+  <form id="gridea-search-form" action="https://leosolove.github.io//search/">
+    <input name="q" />
+  </form>
 </div>
 
+      
         <div class="post-detail">
           <article class="post">
             <h2 class="post-title">
               【Blender插件】BLT一键翻译软件
             </h2>
             <div class="post-info">
-              <span>
-                2021-04-25
-              </span>
-              <span>
-                1 min read
-              </span>
+              <time class="post-time">
+                · 2021-04-25 ·
+              </time>
               
-                <a href="https://leosolove.github.io/tag/8OMhdM6on/" class="post-tag">
+                <a href="https://leosolove.github.io/tag/8OMhdM6on/" class="post-tags">
                   # Blender插件
                 </a>
               
             </div>
             
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>Blender插件一键翻译软件-“BLT”免费共享发布</p>
+            <div class="post-content">
+              <p>Blender插件一键翻译软件-“BLT”免费共享发布</p>
 <p>官方下载链接：<a href="http://150010.xyz/blt/" target="_blank">BLT官方下载地址</a></p>
 
-              </div>
-              <div class="toc-container">
-                
-              </div>
             </div>
           </article>
         </div>
-
+    
         
           <div class="next-post">
             <div class="next">下一篇</div>
@@ -113,7 +108,7 @@
                 【Blender插件】Grid Modeler 1.18.2 快速网格建模插件，科幻机械概念设计必备建模插件！
               </h3>
             </a>
-          </div>
+          </div>  
         
 
         
@@ -131,7 +126,7 @@
     repo: 'leosolove.github.io',
     owner: 'leosolove',
     admin: ['leosolove'],
-    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    id: location.pathname,      // Ensure uniqueness and length less than 50
     distractionFreeMode: false  // Facebook-like distraction free mode
   })
 
@@ -143,56 +138,16 @@
 
           
         
-
+    
         <div class="site-footer">
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-  <a class="rss" href="https://leosolove.github.io//atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
 </div>
+
+<script>
+  hljs.initHighlightingOnLoad()
+</script>
 
       </div>
     </div>
-
-    <script>
-      hljs.initHighlightingOnLoad()
-
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
-
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
-
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
-
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
-
-    </script>
   </body>
 </html>
