@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
     <title>CG百宝箱</title>
-    <updated>2021-04-25T08:44:25.141Z</updated>
+    <updated>2021-04-25T08:46:07.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
@@ -10,4 +10,14 @@
     <logo>https://leosolove.github.io/images/avatar.png</logo>
     <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, CG百宝箱</rights>
+    <entry>
+        <title type="html"><![CDATA[AAAAA]]></title>
+        <id>https://leosolove.github.io/post/aaaaa/</id>
+        <link href="https://leosolove.github.io/post/aaaaa/">
+        </link>
+        <updated>2021-04-25T08:45:36.000Z</updated>
+        <content type="html"><![CDATA[<p>DADADWAWDAWDAWDDWDAAAAAAAAAAAAAAAAAAAAAAA<br>
+FSFAWDAWD<img src="https://leosolove.github.io//post-images/1619340350032.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
 </feed>
