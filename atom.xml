@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
-    <title>CG百宝箱</title>
-    <updated>2021-04-25T08:46:07.189Z</updated>
+    <title>糊涂虫的百宝箱</title>
+    <updated>2021-04-25T09:16:58.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://leosolove.github.io/images/avatar.png</logo>
     <icon>https://leosolove.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, CG百宝箱</rights>
+    <rights>All rights reserved 2021, 糊涂虫的百宝箱</rights>
     <entry>
         <title type="html"><![CDATA[AAAAA]]></title>
         <id>https://leosolove.github.io/post/aaaaa/</id>
