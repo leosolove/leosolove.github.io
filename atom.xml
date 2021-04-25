@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
     <title>糊涂虫的百宝箱</title>
-    <updated>2021-04-25T11:44:38.210Z</updated>
+    <updated>2021-04-25T12:10:12.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
@@ -11,13 +11,64 @@
     <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 糊涂虫的百宝箱</rights>
     <entry>
-        <title type="html"><![CDATA[mesh_check  blender网格快速检查插件]]></title>
+        <title type="html"><![CDATA[【Blender插件】Grid Modeler 1.18.2 快速网格建模插件，科幻机械概念设计必备建模插件！]]></title>
+        <id>https://leosolove.github.io/post/blender-cha-jian-grid-modeler-1182-kuai-su-wang-ge-jian-mo-cha-jian-ke-huan-ji-jie-gai-nian-she-ji-bi-bei-jian-mo-cha-jian/</id>
+        <link href="https://leosolove.github.io/post/blender-cha-jian-grid-modeler-1182-kuai-su-wang-ge-jian-mo-cha-jian-ke-huan-ji-jie-gai-nian-she-ji-bi-bei-jian-mo-cha-jian/">
+        </link>
+        <updated>2021-04-25T11:54:29.000Z</updated>
+        <content type="html"><![CDATA[<p>Grid Modeler是一种方便的工具，可以轻松地创建3D模型。</p>
+<p>Grid Modeler使您可以通过绘制形状进行布尔型切割或在彼此之上创建网格。这是Blender中的新建模工作流程。它被证明是非常有效的。</p>
+<p>特征<br>
+-布尔切</p>
+<p>-创建新面孔</p>
+<p>-布尔切片</p>
+<p>-强大的形状功能</p>
+<p>-先进的网格系统</p>
+<p>-施工线</p>
+<p>-创建管道</p>
+<p>网格非常精确，易于使用。您可以按任何方向定向网格平面。它被设计为非常先进的网格系统。</p>
+<p>表中的内容</p>
+<ul>
+<li>特征</li>
+</ul>
+<p>-关于Grid Modeler</p>
+<ul>
+<li>更新</li>
+</ul>
+<p>-已知问题和局限性</p>
+<p>-使用指南</p>
+<p>-有用的提示</p>
+<p>-硬件支持</p>
+<p>-联系人和支持</p>
+<p>关于网格建模器<br>
+Grid Modeler专为速度建模而设计。</p>
+<p>如果要创建：</p>
+<p>-用于游戏，背景事物，建筑物的快速静态对象</p>
+<p>-当需要一致的比例和角度时，剑，盾，盔甲</p>
+<p>-科幻，宇宙飞船，机器人，武器，坚硬的固体表面物体</p>
+<p>然后，Grid Modeler将成为您在Blender中有用的工具。</p>
+<p>另外，如果您以前使用过Google Sketchup，Fusion360或其他CAD软件，您可能会觉得Grid Modeler很熟悉。它们具有一些相似的概念和优点。</p>
+<p>对于Grid Modeler的背景故事和设计概念，</p>
+<p>请访问我的网站：https :   //www.kushirocg.com</p>
+<p>更新<br>
+版本1.18.4</p>
+<p>这是次要更新！</p>
+<p>-增强的边缘管道平滑功能！它具有更好的平滑效果，更易于使用！</p>
+<p>-平滑现在成为复选框而不是值。</p>
+<p>-修复了使用两个顶点运行Grid Modeler时的错误。</p>
+<p>百度网盘下载链接：&lt;a href=&quot;https://pan.baidu.com/s/1zU1r5b4a7CKEx94ytPXIFA &quot;target=&quot;_blank&quot;&gt;网盘地址</a></p>
+<p>提取码：tniq</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender插件】mesh_check 0.0.2  blender 网格快速检查插件]]></title>
         <id>https://leosolove.github.io/post/mesh_check-blender-wang-ge-kuai-su-jian-cha-cha-jian/</id>
         <link href="https://leosolove.github.io/post/mesh_check-blender-wang-ge-kuai-su-jian-cha-cha-jian/">
         </link>
         <updated>2021-04-25T09:28:00.000Z</updated>
         <content type="html"><![CDATA[<p><strong>mesh_check</strong></p>
-<p>网格检查是完美的插件，可帮助您清洁网格。</p>
+<p>网格检查是完美的插件，可帮助您清洁网格。<br>
+版本0.0.2</p>
 <ul>
 <li>恩贡斯</li>
 <li>三角形</li>
