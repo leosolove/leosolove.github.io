@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
     <title>云的百宝箱</title>
-    <updated>2021-04-25T12:31:40.456Z</updated>
+    <updated>2021-04-25T12:42:28.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://leosolove.github.io/images/avatar.png</logo>
     <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 云的百宝箱</rights>
+    <entry>
+        <title type="html"><![CDATA[【Blender插件】BLT一键翻译软件]]></title>
+        <id>https://leosolove.github.io/post/blender-cha-jian-blt-yi-jian-fan-yi-ruan-jian/</id>
+        <link href="https://leosolove.github.io/post/blender-cha-jian-blt-yi-jian-fan-yi-ruan-jian/">
+        </link>
+        <updated>2021-04-25T12:38:23.000Z</updated>
+        <content type="html"><![CDATA[<p>Blender插件一键翻译软件-“BLT”免费共享发布</p>
+<p>官方下载链接：<a href="http://150010.xyz/blt/" target="_blank">BLT官方下载地址</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Blender插件】Grid Modeler 1.18.2 快速网格建模插件，科幻机械概念设计必备建模插件！]]></title>
         <id>https://leosolove.github.io/post/blender-cha-jian-grid-modeler-1182-kuai-su-wang-ge-jian-mo-cha-jian-ke-huan-ji-jie-gai-nian-she-ji-bi-bei-jian-mo-cha-jian/</id>
