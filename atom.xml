@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
     <title>糊涂虫的百宝箱</title>
-    <updated>2021-04-25T09:27:21.587Z</updated>
+    <updated>2021-04-25T09:35:50.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
@@ -10,4 +10,33 @@
     <logo>https://leosolove.github.io/images/avatar.png</logo>
     <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 糊涂虫的百宝箱</rights>
+    <entry>
+        <title type="html"><![CDATA[mesh_check  blender网格快速检查插件]]></title>
+        <id>https://leosolove.github.io/post/mesh_check-blender-wang-ge-kuai-su-jian-cha-cha-jian/</id>
+        <link href="https://leosolove.github.io/post/mesh_check-blender-wang-ge-kuai-su-jian-cha-cha-jian/">
+        </link>
+        <updated>2021-04-25T09:28:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>mesh_check</strong></p>
+<p>网格检查是完美的插件，可帮助您清洁网格。</p>
+<ul>
+<li>恩贡斯</li>
+<li>三角形</li>
+<li>N极</li>
+<li>电杆</li>
+<li>边缘超过5个的极点</li>
+<li>孤立的版本</li>
+<li>非流形边缘</li>
+</ul>
+<h3 id="网格检查将为您冲洗掉它们">网格检查将为您冲洗掉它们。</h3>
+<p>它可以在对象模式和编辑模式下对1个或一组对象起作用。</p>
+<p>由于显示为BGL，因此您可以轻松地在插件首选项中更改颜色。</p>
+<p>还可以使用“ X射线”选项来查看穿过网格的颜色。</p>
+<p>网格检查在导出资产进行3D打印之前也非常方便，例如检查其是否关闭。</p>
+<p>您将在3D视图的“叠加”菜单中找到该插件。☂️</p>
+<p>插件说明 ：https://www.bilibili.com/read/cv9314967/<br>
+https://www.bilibili.com/video/BV1c7411e72V?from=search&amp;seid=5948973481406187055</p>
+<p>百度网盘下载链接： https://pan.baidu.com/s/1nrfLFwGoJBa8yZNSUq3E1g<br>
+提取码：69sc</p>
+]]></content>
+    </entry>
 </feed>
