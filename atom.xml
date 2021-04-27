@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
     <title>云的百宝箱</title>
-    <updated>2021-04-25T13:25:20.954Z</updated>
+    <updated>2021-04-27T11:07:30.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://leosolove.github.io/images/avatar.png</logo>
     <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 云的百宝箱</rights>
+    <entry>
+        <title type="html"><![CDATA[【Blender插件】Pie Menu Editor 1.18.0 For Blender 2.8x-2.9x自定义各种快捷菜单]]></title>
+        <id>https://leosolove.github.io/post/pie-menu-editor-1180-for-blender-28x-29x-zi-ding-yi-ge-chong-kuai-jie-cai-dan/</id>
+        <link href="https://leosolove.github.io/post/pie-menu-editor-1180-for-blender-28x-29x-zi-ding-yi-ge-chong-kuai-jie-cai-dan/">
+        </link>
+        <updated>2021-04-27T11:04:26.000Z</updated>
+        <content type="html"><![CDATA[<p>插件特征：<br>
+饼图菜单编辑器<br>
+常规菜单编辑器<br>
+弹出对话框编辑器<br>
+宏操作员编辑器<br>
+模态操作员编辑器<br>
+侧面板编辑器<br>
+工具栏编辑器<br>
+隐藏面板<br>
+扩展面板<br>
+浮板<br>
+带8个按钮的饼图菜单<br>
+粘滞键<br>
+堆栈密钥<br>
+自定义图标<br>
+和更多</p>
+<p>百度网盘下载链接：<a href="https://pan.baidu.com/s/1g2LTFeaXMOh6YozPWFaehw " target="_blank">下载地址</a></p>
+<p>提取码：nbkz</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Blender插件】BLT一键翻译软件]]></title>
         <id>https://leosolove.github.io/post/blender-cha-jian-blt-yi-jian-fan-yi-ruan-jian/</id>
