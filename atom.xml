@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
     <title>云的百宝箱</title>
-    <updated>2021-04-27T11:13:31.740Z</updated>
+    <updated>2021-04-27T18:39:07.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://leosolove.github.io/images/avatar.png</logo>
     <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 云的百宝箱</rights>
+    <entry>
+        <title type="html"><![CDATA[【Blender插件】Hair Tool 2.24 毛发插件]]></title>
+        <id>https://leosolove.github.io/post/hair-tool/</id>
+        <link href="https://leosolove.github.io/post/hair-tool/">
+        </link>
+        <updated>2021-04-27T18:36:01.000Z</updated>
+        <content type="html"><![CDATA[<p>Hair Tool是Blender的插件，基于3d曲线创建头发。支持Blender 2.82或更高版。</p>
+<p>该插件将帮助您从贝塞尔曲线/努布斯曲线生成带有uv的发带。这是当前大多数游戏为角色扮演毛发的方式。</p>
+<p>https://gumroad.com/l/hairtool</p>
+<p>该插件将帮助您使用uv等生成头发：</p>
+<p>生成和修饰发带（基于Blender粒子头发）<br>
+从引导网格生成头发发带<br>
+在网格表面上绘制曲线头发（或粒子头发）<br>
+自动uv（为每个样条分配了随机uv区域）<br>
+uv纹理预览直接在曲线功能区上<br>
+轻松方便地在曲线带和网格物体之间来回切换，同时保留紫外线<br>
+调整色带外观（锥度半径，随机倾斜，编辑轮廓）<br>
+将“曲线”转换为“粒子头发”，将“粒子头发”转换为曲线带，将“曲线带”转换为网格带，等等。<br>
+曲线重采样-增加，减少曲线/色带点数<br>
+为网格带生成顶点颜色/权重渐变。</p>
+<p>百度网盘下载地址：<a href="https://pan.baidu.com/s/1pzJYpkCLfkYeFrK21cZ-OA" target="_blank">下载链接</a></p>
+<p>提取码：fsap</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Blender插件】Pie Menu Editor 1.18.0 For Blender 2.8x-2.9x自定义各种快捷菜单]]></title>
         <id>https://leosolove.github.io/post/pie-menu-editor-1180-for-blender-28x-29x-zi-ding-yi-ge-chong-kuai-jie-cai-dan/</id>
