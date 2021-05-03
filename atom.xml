@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leosolove.github.io/</id>
     <title>云的百宝箱</title>
-    <updated>2021-04-27T19:08:53.431Z</updated>
+    <updated>2021-05-03T07:50:53.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leosolove.github.io/"/>
     <link rel="self" href="https://leosolove.github.io/atom.xml"/>
@@ -10,6 +10,43 @@
     <logo>https://leosolove.github.io/images/avatar.png</logo>
     <icon>https://leosolove.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 云的百宝箱</rights>
+    <entry>
+        <title type="html"><![CDATA[【Blender插件】Bezier Mesh Shaper v0.9.4 倒角 贝塞尔曲线建模]]></title>
+        <id>https://leosolove.github.io/post/blender-cha-jian-bezier-mesh-shaper-v094-dao-jiao-bei-sai-er-qu-xian-jian-mo/</id>
+        <link href="https://leosolove.github.io/post/blender-cha-jian-bezier-mesh-shaper-v094-dao-jiao-bei-sai-er-qu-xian-jian-mo/">
+        </link>
+        <updated>2021-05-03T07:47:21.000Z</updated>
+        <content type="html"><![CDATA[<p>件Blender Market – Bezier Mesh Shaper v0.9.4是一款用于Blender 2.79和2.80的建模工具，使您可以使用曲线使网格变形，从而制作漂亮的形状。它对于阻塞和抛光有机和硬表面网格的形式很有用。最简单的使用方法是选择一些顶点并调用该工具</p>
+<p>百度网盘下载地址<a href="https://pan.baidu.com/s/1iA3oIAPWpODvArAsCiqVtQ " target="_blank">下载地址</a></p>
+<p>提取码：0s5o</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Blender插件】(2.8)BoxCutter 718_1 硬表面建模插件]]></title>
+        <id>https://leosolove.github.io/post/blender-cha-jian-28boxcutter-718_1-ying-biao-mian-jian-mo-cha-jian/</id>
+        <link href="https://leosolove.github.io/post/blender-cha-jian-28boxcutter-718_1-ying-biao-mian-jian-mo-cha-jian/">
+        </link>
+        <updated>2021-05-03T07:37:17.000Z</updated>
+        <content type="html"><![CDATA[<p>Boxcutter是一款非常强大的硬表面建模插件，该插件目前可支持多个版本的Blender软件，有了它，我们就可以非常轻松的解决多边形建模系统中各种硬表面处理问题，使用方便，能够大大提升建模效率，并且该版本为破解版，你可以永久免费的使用上面的所有功能。</p>
+<p>Boxcutter</p>
+<p>【软件特色】<br>
+　　对象被切割，自动更新，将创建的对象</p>
+<p>一个对象</p>
+<p>多个对象</p>
+<p>切割两个对象或将“画笔”应用到所有对象上</p>
+<p>更准确的布尔运算</p>
+<p>改变工具</p>
+<p>允许移动切割</p>
+<p>多边形切割的“线”工具</p>
+<p>允许改变圆的细分</p>
+<p>创建模式</p>
+<p>画刷模式</p>
+<p>层次结构的对象</p>
+<p><a href="https://www.bilibili.com/video/BV14t411L7Fa?p=1" target="_blank">中文教学地址</a></p>
+<p>百度网盘下载地址：<a href="https://pan.baidu.com/s/1a1cF5TM7xQJ5tUjTQfx-3w " target="_blank">插件下载地址</a></p>
+<p>提取码：94no</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【Blender插件】Hair Tool 2.24 毛发插件]]></title>
         <id>https://leosolove.github.io/post/hair-tool/</id>
